@@ -25,7 +25,7 @@ module.exports = {
       const prefixCount = client.commands.size; 
 
       console.clear();
-      console.log(chalk.cyan(figlet.textSync("Seyek Bot", { horizontalLayout: "default" })));
+      console.log(chalk.cyan(figlet.textSync("Dkz Bot", { horizontalLayout: "default" })));
       
       try {
         
@@ -58,14 +58,13 @@ module.exports = {
       };
       
       const configuracoes = [
-        { text: "Prefixo gg!", url: "https://twitch.tv/dkz_xd" },
-        { text: "Prefixo gg!", url: "https://twitch.tv/dkz_xd" },
-        { text: "A melhor comunidade!?", url: "https://twitch.tv/dkz_xd" },
-        { text: "Prefixo gg!", url: "https://twitch.tv/dkz_xd" },
-        { text: "Prefixo gg!", url: "https://twitch.tv/dkz_xd" },
+        { text: "Prefixo !", url: "https://twitch.tv/dkz_xd" },
+        { text: "Prefixo !", url: "https://twitch.tv/dkz_xd" },
+        { text: "Prefixo !", url: "https://twitch.tv/dkz_xd" },
+        { text: "Prefixo !", url: "https://twitch.tv/dkz_xd" },
         { text: "Dkz na parada", url: "https://twitch.tv/dkz_xd" },
-        { text: "Prefixo gg!", url: "https://twitch.tv/dkz_xd" },
-        { text: "Prefixo gg!", url: "https://twitch.tv/dkz_xd" }
+        { text: "Prefixo !", url: "https://twitch.tv/dkz_xd" },
+        { text: "Prefixo !", url: "https://twitch.tv/dkz_xd" }
       ];
 
       let indiceAtual = 0;
