@@ -1,0 +1,23 @@
+{
+    "muteRoleId": null,
+    "prisonRoleId": null,
+    "banLogChannelId": null,
+    "muteLogChannelId": null,
+    "kickLogChannelId": null,
+    "prisonLogChannelId": null,
+    "mutesLogChannelId": null,
+    "deafLogsChannelId": null,
+    "messageLogsChannelId": null,
+    "messageUpLogsChannelId": null,
+    "roleLogsChannelId": null,
+    "roleLogEditChannelId": null,
+    "roleLogDeleteChannelId": null,
+    "roleLogAddChannelId": null,
+    "roleLogRemoveChannelId": null,
+    "channelLogEditChannelId": null,
+    "channelLogDeleteChannelId": null,
+    "voiceLogChannelId": null,
+    "commandLogChannelId": null,
+    "additionalLogChannelId": null,
+    "logRoleId": null
+}
