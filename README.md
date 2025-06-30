@@ -36,8 +36,6 @@
 * [x] Comandos Úteis
 * [x] Personalizável
 * [x] Fácil de usar
-* [x] Sugestões
-* [x] Sorteios
 
 
 * [x] Discord.js v14
